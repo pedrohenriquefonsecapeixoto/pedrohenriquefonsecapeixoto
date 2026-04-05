@@ -30,8 +30,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
 ### Backend
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
