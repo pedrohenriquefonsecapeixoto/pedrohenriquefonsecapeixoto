@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pedro Henrique
 
-🚀 **Junior Computer Science | Backend Specialist**  
+🚀 **Junior Computer Scientist | Backend Specialist**  
 🇧🇷 Brazil
 
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
