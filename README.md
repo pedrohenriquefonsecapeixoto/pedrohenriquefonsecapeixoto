@@ -56,6 +56,8 @@ Cada problema resolvido é um passo para construir soluções melhores e mais in
 
 🤝 Sempre aberto a novas ideias e parcerias.
 
+
+
 ## 🇺🇸 English
 <a id="en"></a>
 
