@@ -41,10 +41,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-## 📊 GitHub Stats
-
----
-
 ## 🚀 Philosophy
 
 > "Programming is a continuous journey.  
