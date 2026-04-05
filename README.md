@@ -1,3 +1,8 @@
+<p align="center">
+  🇧🇷 <a href="#-português">Português</a> |
+  🇺🇸 <a href="#-english">English</a>
+</p>
+
 # Hi 👋, I'm Pedro Henrique
 
 🚀 **Junior Computer Scientist | Backend Specialist**  
