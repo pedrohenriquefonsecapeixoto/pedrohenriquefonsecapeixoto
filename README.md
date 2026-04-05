@@ -6,6 +6,7 @@
 ## 🇧🇷 Português
 <a id="pt-br"></a>
 🚀 **Cientista da Computação Junior | Especialista em Backend**
+
 🇧🇷 Brasil
 
 Sou focado em arquitetura, performance, código limpo e soluções orientadas ao profissionalismo.
