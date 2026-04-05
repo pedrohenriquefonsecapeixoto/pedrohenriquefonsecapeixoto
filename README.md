@@ -33,7 +33,7 @@ Sou focado em arquitetura, performance, código limpo e soluções orientadas ao
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Backend
 
