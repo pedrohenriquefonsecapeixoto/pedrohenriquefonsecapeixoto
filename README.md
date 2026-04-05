@@ -51,7 +51,7 @@ Sou focado em arquitetura, performance, código limpo e soluções orientadas ao
 
 ## 🚀 Filosofia
 
-"Programar é uma jornada contínua.
+"Programar é uma jornada contínua.  
 Cada problema resolvido é um passo para construir soluções melhores e mais inteligentes."
 
 ---
