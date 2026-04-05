@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pedro Henrique
 
-🚀 **Junior Computer Science | Python & C Specialist**  
+🚀 **Junior Computer Science | Backend Specialist**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
