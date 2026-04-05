@@ -6,6 +6,8 @@
 ## 🇧🇷 Português
 <a id="pt-br"></a>
 
+
+
 🚀 **Cientista da Computação Junior | Especialista em Backend**  
 🇧🇷 Brasil
 
