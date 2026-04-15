@@ -42,9 +42,9 @@ Sou focado em arquitetura, performance, código limpo e soluções orientadas ao
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![POO](https://img.shields.io/badge/POO-00008B?style=for-the-badge&logo=code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![POO](https://img.shields.io/badge/POO-00008B?style=for-the-badge&logo=code&logoColor=white)
 
 ### Ferramentas
 
@@ -98,9 +98,10 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OOP](https://img.shields.io/badge/POO-00008B?style=for-the-badge&logo=code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-00008B?style=for-the-badge&logo=code&logoColor=white)
+
 
 ### DevOps & Tools
 
