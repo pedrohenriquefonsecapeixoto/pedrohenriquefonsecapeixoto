@@ -1,13 +1,3 @@
-<p align="center">
-  🇧🇷 <a href="#-português">Português</a> |
-  🇺🇸 <a href="#-english">English</a>
-</p>
-
-## 🇧🇷 Português
-<a id="pt-br"></a>
-
-
-
 🚀 **Cientista da Computação Junior | Especialista em Backend**  
 🇧🇷 Brasil
 
@@ -44,7 +34,6 @@ Sou focado em arquitetura, performance, código limpo e soluções orientadas ao
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### Ferramentas
 
@@ -60,60 +49,3 @@ Cada problema resolvido é um passo para construir soluções melhores e mais in
 ---
 
 🤝 Sempre aberto a novas ideias e parcerias.
-
-## 🇺🇸 English
-<a id="en"></a>
-
-🚀 **Junior Computer Scientist | Backend Specialist**  
-🇧🇷 Brazil
-
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
----
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/pedrohenriquefonsecapeixoto">
-    <img src="https://img.shields.io/badge/GitHub-PEDROHENRIQUEFONSECAPEIXOTO-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🧠 What I do
-
-- 💻 Software development & programming
-- 🧩 Problem solving & logical thinking
-- ⚙️ Algorithms & data structures
-- 🔧 Automation & scripting
-- 📚 Continuous learning of new technologies
-- 🚀 Building academic & personal projects
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-00008B?style=for-the-badge&logo=code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-
-
-### DevOps & Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 🚀 Philosophy
-
-> "Programming is a continuous journey.  
-> Every problem solved is a step toward building better, smarter solutions."
-
----
-
-🤝 Always open to new ideas and partnerships.
