@@ -1,7 +1,6 @@
-🚀 **Cientista da Computação Junior | Especialista em Backend**  
 🇧🇷 Brasil
 
-Sou focado em arquitetura, performance, código limpo e soluções orientadas ao profissionalismo.
+Sou focado em performance e código limpo.
 
 ---
 
@@ -38,14 +37,3 @@ Sou focado em arquitetura, performance, código limpo e soluções orientadas ao
 ### Ferramentas
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 🚀 Filosofia
-
-"Programar é uma jornada contínua.  
-Cada problema resolvido é um passo para construir soluções melhores e mais inteligentes."
-
----
-
-🤝 Sempre aberto a novas ideias e parcerias.
