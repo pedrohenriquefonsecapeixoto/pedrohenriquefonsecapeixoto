@@ -9,12 +9,12 @@ Focado em aprimorar minha lógica e conhecimentos práticos por meio de desafios
 
 ### 📚 Principais Focos de Estudo
 
--🤖 Inteligência Artificial
--🌐 Programação Web
--🧩 Otimização de Algoritmos e Estrutura de Dados
--🗄️ Banco de Dados
--💻 Engenharia de Software
--🖥️ Organização e Arquitetura de Sistemas
+- 🤖 Inteligência Artificial
+- 🌐 Programação Web
+- 🧩 Otimização de Algoritmos e Estrutura de Dados
+- 🗄️ Banco de Dados
+- 💻 Engenharia de Software
+- 🖥️ Organização e Arquitetura de Sistemas
 
 ---
 
