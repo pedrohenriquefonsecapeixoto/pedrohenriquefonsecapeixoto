@@ -30,4 +30,4 @@ Focado em aprimorar minha lógica e conhecimentos práticos por meio de desafios
 
 ### 🎯 Minha Meta
 
-Consolidar minha base em ciência da computação, dominar as melhores práticas do mercado (Clean Code, versionamento) e entregar projetos cada vez mais complexos e bem estruturados à medida que avanço no curso.
+Consolidar minha base em ciência da computação, dominar as melhores práticas do mercado e entregar projetos cada vez mais complexos e bem estruturados à medida que avanço no curso e no meu conhecimento.
