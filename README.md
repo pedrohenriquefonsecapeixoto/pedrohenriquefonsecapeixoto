@@ -11,7 +11,7 @@ Focado em aprimorar minha lógica e conhecimentos práticos por meio de desafios
 
 - 🤖 Inteligência Artificial
 - 🌐 Programação Web
-- 🧩 Otimização de Algoritmos e Estrutura de Dados
+- 🧩Otimização de Algoritmos e Estrutura de Dados
 - 🗄️ Banco de Dados
 - 💻 Engenharia de Software
 - 🖥️ Organização e Arquitetura de Sistemas
